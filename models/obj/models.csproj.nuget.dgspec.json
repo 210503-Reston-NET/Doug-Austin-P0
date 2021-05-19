@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Revature\\P0\\models\\models.csproj": {}
+    "C:\\Revature\\P0\\Doug-Austin-P0\\models\\models.csproj": {}
   },
   "projects": {
-    "C:\\Revature\\P0\\models\\models.csproj": {
+    "C:\\Revature\\P0\\Doug-Austin-P0\\models\\models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Revature\\P0\\models\\models.csproj",
+        "projectUniqueName": "C:\\Revature\\P0\\Doug-Austin-P0\\models\\models.csproj",
         "projectName": "models",
-        "projectPath": "C:\\Revature\\P0\\models\\models.csproj",
+        "projectPath": "C:\\Revature\\P0\\Doug-Austin-P0\\models\\models.csproj",
         "packagesPath": "C:\\Users\\daust\\.nuget\\packages\\",
-        "outputPath": "C:\\Revature\\P0\\models\\obj\\",
+        "outputPath": "C:\\Revature\\P0\\Doug-Austin-P0\\models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daust\\AppData\\Roaming\\NuGet\\NuGet.Config",
